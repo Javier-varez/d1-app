@@ -1,0 +1,10 @@
+[package]
+name = "d1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+d1-pac = "0.0.32"
+riscv = "0.12.1"
+riscv-rt = "0.13.0"
+panic-halt = "1.0.0"
